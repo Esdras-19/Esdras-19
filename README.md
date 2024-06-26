@@ -3,9 +3,8 @@
 
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning Python and C
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about www.linkedin.com/in/esdras-barbosa
 - 📫 How to reach me: esdrastolini19@gmail.com
 - Tecnologias:
 
